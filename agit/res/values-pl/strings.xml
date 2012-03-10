@@ -42,4 +42,8 @@
 
     <string name="diff_seekbar_before">PRZED</string>
     <string name="diff_seekbar_after">PO</string>
+    
+    <string name="git_commit">Commit</string>
+    <string name="git_push">Push</string>
+    <string name="git_pull">Pull</string>
 </resources>

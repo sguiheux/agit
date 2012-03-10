@@ -50,4 +50,8 @@
 
 	<string name="repo_deletion_dialog_confirmation_title">"Elimina repository..."</string>
 	<string name="repo_deletion_dialog_confirmation_message">"Sei sicuro di voler eliminare questo repository Git?"</string>
+	
+	<string name="git_commit">Commit</string>
+    <string name="git_push">Push</string>
+    <string name="git_pull">Pull</string>
 </resources>
