@@ -1,4 +1,4 @@
-Agit - Android Git Client
+Agit - Android Git Client  
 =========================
 
 © 2011 Roberto Tyley
