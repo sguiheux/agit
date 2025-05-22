@@ -1,0 +1,6 @@
+name: ww
+jobs:
+  root:
+    runs-on: .cds/worker-models/mymodel.yml
+    steps:
+    - uses: actions/checkout

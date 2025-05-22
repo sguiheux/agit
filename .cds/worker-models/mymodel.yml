@@ -1,0 +1,6 @@
+name: docker-debian
+description: my debian worker model
+type: docker
+osarch: linux/amd64
+spec:
+  image: buildpack-deps:bullseye-scm
