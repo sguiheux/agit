@@ -1,4 +1,5 @@
 name: ww
+on: [push]
 jobs:
   root:
     runs-on: .cds/worker-models/mymodel.yml
